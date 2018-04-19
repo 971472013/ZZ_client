@@ -1,0 +1,54 @@
+body {
+    background: #f5f5f5;
+}
+.navbar{
+    background: #fff;
+    height: 80px;
+}
+
+.form-horizontal{
+    background: #fff;
+    margin-top: 30%;
+    border-radius: 15px;
+    padding-bottom: 10%;
+    text-align: center;
+}
+.form-group-label{
+    margin: 0 30px;
+    padding-top:20px;
+    position: relative;
+    text-align: center;
+}
+.form-group-content{
+    padding-top:25px;
+    position: relative;
+}
+.sel{
+    border-radius: 20px;
+}
+#button{
+    float:right;
+    margin-right:60px;
+    border-radius: 20px;
+}
+.u-label{
+    color: #1b1e21;
+}
+#label_div{
+    margin-left: 220px;
+    margin-top: 20px;
+    float: left;
+}
+#logout{
+    border-radius: 10px;
+    margin-left:850px;
+}
+/*.form-horizontal .form-control{*/
+    /*background: #f0f0f0;*/
+    /*border: none;*/
+    /*border-radius: 20px;*/
+    /*box-shadow: none;*/
+    /*padding: 0 20px 0 45px;*/
+    /*height: 40px;*/
+    /*transition: all 0.3s ease 0s;*/
+/*}*/

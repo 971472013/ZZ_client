@@ -1,0 +1,97 @@
+#img{
+    width:222px;
+    height: 222px;
+    margin: 20px 30px 20px 40px;
+    float: left;
+}
+#name{
+    float:left;
+}
+#name_and_city{
+    overflow:hidden;
+}
+#main_info{
+    background: #484444;
+}
+#name{
+    text-align: center;
+    width: 600px;
+}
+.panel-heading .arrow {
+    color: #000;
+    margin: 0 8px;
+}
+.base-info{
+    color: #fff;
+    line-height:40px;
+}
+#introduction{
+    color: #b1b1b1;
+    margin-left:28px;
+}
+#list-title{
+    overflow: hidden;
+}
+#list-title-strong{
+    font-size: 20px;
+}
+.showlistitem{
+    border-bottom: 1px solid #dcdcdc;
+    list-style-type: none;
+    background: #efefef;
+    margin-top: 30px;
+    height: 145px;
+}
+.show-info{
+    margin-top: 70px;
+    margin-left: 179px;
+}
+.show-img{
+    overflow: hidden;
+    float: left;
+}
+.show-name{
+    overflow: hidden;
+    font-size: 23px;
+}
+.show-time{
+    float:left;
+    margin-left: 20px;
+    color: #0d9800;
+}
+.show-place{
+    float:left;
+    margin-left: 50px;
+    color: #0d9800;
+}
+.show-type{
+    float: left;
+    margin-left: 50px;
+    color: #cc0589;
+}
+.show-name-div{
+    margin-left: 109px;
+    width: 764px;
+    text-align: center;
+}
+#c1{
+
+}
+#c2{
+
+}
+#check{
+
+}
+.u-label{
+    color: #1b1e21;
+}
+#label_div{
+    margin-left: 220px;
+    margin-top: 20px;
+    float: left;
+}
+#logout{
+    border-radius: 10px;
+    margin-left:850px;
+}
